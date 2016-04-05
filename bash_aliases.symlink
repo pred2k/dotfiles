@@ -1,0 +1,14 @@
+# File is used on terminal interactive start mode
+
+# my alias
+alias ls='ls -hp --color=auto'
+alias l='ls -l'
+alias la='ls -Al'
+alias ll='ls -Al'
+alias ..='cd ../'
+alias c='clear' 
+
+alias p='pwd'
+
+alias myip='curl https://ip.appspot.com && echo ""'
+
