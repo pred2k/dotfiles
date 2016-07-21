@@ -10,5 +10,7 @@ alias c='clear'
 
 alias p='pwd'
 
+alias mkx='chmod u+x'
+
 alias myip='curl https://ip.appspot.com && echo ""'
 
